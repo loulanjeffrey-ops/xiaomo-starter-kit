@@ -43,3 +43,6 @@
 ---
 
 *助手会基于这些信息个性化服务。定期更新，让助手跟上你的变化。*
+
+## My test
+This is my first GitHub practice.
